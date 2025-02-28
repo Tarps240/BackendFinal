@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Roboto", "sans-serif";
+
+    --breakpoint-3xl: 1920px;
+
+    --color-primary: #244855,
+    --color-secondary: #E64833,
+    --color-tertiary: #90AEAD,
+    --color-quaternary: #FBE9D0,
+}
